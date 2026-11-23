@@ -1,3 +1,4 @@
+// One office joke: standing desk, no chair, wellness program.
 import { mkdir, writeFile } from "node:fs/promises";
 
 const joke = "I asked for a standing desk, so they took my chair and called it a wellness program.";
